@@ -1,5 +1,3 @@
-![banner](assets/Income_classification_banner.png)
-
 ![Python version](https://img.shields.io/badge/Python%20version-3.10%2B-lightgrey)
 ![GitHub last commit](https://img.shields.io/github/last-commit/semasuka/Income-classification)
 ![GitHub repo size](https://img.shields.io/github/repo-size/semasuka/Income-classification)
@@ -9,14 +7,9 @@
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/semasuka/income-classification/income_class_st.py)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-Badge [source](https://shields.io/)
-
 # People with the highest education level, and who are either husbands or wifes make more money
 
 
-## Authors
-
-- [@semasuka](https://www.github.com/semasuka)
 
 ## Table of Contents
 
